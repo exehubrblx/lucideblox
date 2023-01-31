@@ -182,6 +182,7 @@ return {
 		crop = "rbxassetid://7733765140",
 		cross = "rbxassetid://7733765224",
 		crosshair = "rbxassetid://7733765307",
+		creation = "rbxassetid://4483362755".
 		crown = "rbxassetid://7733765398",
 		currency = "rbxassetid://7733765592",
 		database = "rbxassetid://7743866778",
